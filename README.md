@@ -3,6 +3,7 @@
 Elasticsearch 학습 과정과 미니 프로젝트를 정리한 개인 노트입니다.  
 이론 및 설명은 Notion, 실습 코드는 GitHub 저장소로 관리합니다.
 
+
 ---
 
 ## 🧠 Elasticsearch 설명
@@ -12,6 +13,7 @@ Elasticsearch 학습 과정과 미니 프로젝트를 정리한 개인 노트입
 
 👉 **Notion 문서**  
 🔗 https://www.notion.so/2ab809750eed80c7bc22c71a7a8c1941?source=copy_link
+
 
 ---
 
@@ -24,6 +26,7 @@ Elasticsearch 학습 과정과 미니 프로젝트를 정리한 개인 노트입
 👉 **Notion 문서**  
 🔗 https://www.notion.so/Elasticsearch-2a9809750eed8068958ef08144509628?source=copy_link
 
+
 ---
 
 ### 🔹 싱글 노드 Elasticsearch
@@ -31,8 +34,10 @@ Elasticsearch 학습 과정과 미니 프로젝트를 정리한 개인 노트입
 - Docker 기반 실행
 - 기본 CRUD 및 Search API 실습
 
-👉 **GitHub 저장소**  
+👉 **GitHub 저장소** 
 🔗 https://github.com/Hwang-Injun34/single_node_elasticsearch_project
+
+ 
 ---
 
 ### 🔹 클러스터 기반 Elasticsearch
@@ -43,6 +48,7 @@ Elasticsearch 학습 과정과 미니 프로젝트를 정리한 개인 노트입
 👉 **GitHub 저장소**  
 🔗 https://github.com/Hwang-Injun34/clustered_elasticsearch_project
 
+
 ---
 
 ## 🛠 사용 기술
@@ -51,11 +57,13 @@ Elasticsearch 학습 과정과 미니 프로젝트를 정리한 개인 노트입
 - FastAPI
 - Nginx
 
+
 ---
 
 ## ✍️ 정리 방식
 - 📄 **이론 & 개념**: Notion
 - 💻 **실습 & 코드**: GitHub
 - 📘 **전체 목차 & 허브**: README.md
+
 
 ---
