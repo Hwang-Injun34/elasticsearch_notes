@@ -14,6 +14,12 @@
 👉 **Notion 문서**  
 🔗 [Elasticsearch 개념 정리 노션 페이지](https://www.notion.so/2ab809750eed80c7bc22c71a7a8c1941?source=copy_link)
 
+👉 **PDF 문서**  
+📄 Elasticsearch 검색 품질 향상을 위한
+3 단계 의미 기반 키워드 추출 파이프라인
+
+📄 Elasticsearch 검색엔진
+
 ---
 
 ## 미니 프로젝트
